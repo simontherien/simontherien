@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simontherien
 - 👀 I’m interested in quantitative finance
-- 🌱 I’m currently a student in mathematical finance
+- 🌱 I’m currently a MSc student in financial mathematics
 - 📫 How to reach me: simon.therien@gmail.com
 
 <!---
